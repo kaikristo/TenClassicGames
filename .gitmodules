@@ -1,0 +1,3 @@
+[submodule "TCGSnake"]
+	path = TCGSnake
+	url = git@github.com:kaikristo/TCGSnake.git
